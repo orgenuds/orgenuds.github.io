@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orgenuds.github.io/sitemap
+Sitemap: https://orgenuds.github.io/app/sitemap
+Sitemap: https://orgenuds.github.io/assets/sitemap
+Sitemap: https://orgenuds.github.io/css/sitemap
+Sitemap: https://orgenuds.github.io/includes/sitemap
+Sitemap: https://orgenuds.github.io/item/sitemap
+Sitemap: https://orgenuds.github.io/src/sitemap
